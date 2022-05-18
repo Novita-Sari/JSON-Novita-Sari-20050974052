@@ -1,0 +1,24 @@
+[
+  {
+    "nama": "Novita Sari",
+    "nim": "20050974052",
+    "no_telepon": "083568132973",
+    "hobi": ["membaca", "menulis", "menyanyi"],
+    "riwayat_pendidikan": {
+      "SD": "SDN 1 PENELEH SURABAYA",
+      "SMP": "SMPN 41 SURABAYA",
+      "SMA": "SMKN 4 SURABAYA"
+    }
+  },
+  {
+    "nama": "Nadia Yuni",
+    "nim": "20050974048",
+    "no_telepon": "08168237529297",
+    "hobi": ["membaca", "menulis", "menyanyai"],
+    "riwayat_pendidikan": {
+      "SD": "SDN 1 CENDONO",
+      "SMP": "SMPN 1 PADANGAN",
+      "SMA": "SMAN 1 PADANGAN"
+    }
+  }
+]
